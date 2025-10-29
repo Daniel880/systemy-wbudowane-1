@@ -12,4 +12,5 @@ std::cout<<"To nie jest pytanie na moja odpowiedz"<<std::endl;
 std::cin >>jakiejDanuty;
 }
 return 0;
+std::cout<<"Witam ;)";
 }
