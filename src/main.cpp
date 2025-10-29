@@ -11,6 +11,7 @@ extern Command marcelKaczmarczykCommand;
 =======
 extern Command jonaszKorylCommand;
 extern Command jerzyMankowskiCommand;
+extern Command danielWyrwal2Command;
 
 >>>>>>> main
 // Add more extern declarations here for new students
@@ -27,6 +28,7 @@ int main(int argc, char *argv[]) {
 =======
   registry.registerCommand("JonaszKoryl", &jonaszKorylCommand);
   registry.registerCommand("JerzyMankowski", &jerzyMankowskiCommand);
+  registry.registerCommand("DanielWyrwal2", &danielWyrwal2Command);
 
 >>>>>>> main
   if (argc < 2) {
