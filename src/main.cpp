@@ -11,6 +11,7 @@ extern Command marcelKaczmarczykCommand;
 =======
 extern Command jonaszKorylCommand;
 extern Command jerzyMankowskiCommand;
+extern Command jerzyMankowskiSequelCommand;
 extern Command danielWyrwal2Command;
 
 >>>>>>> main
@@ -28,6 +29,7 @@ int main(int argc, char *argv[]) {
 =======
   registry.registerCommand("JonaszKoryl", &jonaszKorylCommand);
   registry.registerCommand("JerzyMankowski", &jerzyMankowskiCommand);
+  registry.registerCommand("JerzyMankowskiSequel", &jerzyMankowskiSequelCommand);
   registry.registerCommand("DanielWyrwal2", &danielWyrwal2Command);
 
 >>>>>>> main
@@ -61,3 +63,4 @@ int main(int argc, char *argv[]) {
     return 1;
   }
 }
+
