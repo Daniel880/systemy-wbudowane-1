@@ -6,7 +6,14 @@
 extern Command janKowalskiCommand;
 extern Command annaNowakCommand;
 extern Command danielWyrwalCommand;
+
 extern Command mateuszStodolnyCommand;
+
+extern Command jonaszKorylCommand;
+extern Command jerzyMankowskiCommand;
+extern Command danielWyrwal2Command;
+
+
 // Add more extern declarations here for new students
 
 int main(int argc, char *argv[]) {
@@ -16,7 +23,12 @@ int main(int argc, char *argv[]) {
   registry.registerCommand("JanKowalski", &janKowalskiCommand);
   registry.registerCommand("AnnaNowak", &annaNowakCommand);
   registry.registerCommand("DanielWyrwal", &danielWyrwalCommand);
+
   registry.registerCommand("MateuszStodolny", &mateuszStodolnyCommand);
+
+  registry.registerCommand("JonaszKoryl", &jonaszKorylCommand);
+  registry.registerCommand("JerzyMankowski", &jerzyMankowskiCommand);
+  registry.registerCommand("DanielWyrwal2", &danielWyrwal2Command);
 
   if (argc < 2) {
     std::cout << "Usage: sw <StudentName>" << std::endl;
