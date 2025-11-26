@@ -20,6 +20,10 @@ set(COMMAND_SOURCES
 =======
     commands/JonaszKoryl_command.cpp
     commands/JerzyMankowski_command.cpp
+<<<<<<< HEAD
+>>>>>>> main
+=======
+    commands/DanielWyrwal2_command.cpp
 >>>>>>> main
     # Add more command files here for new students
 )
