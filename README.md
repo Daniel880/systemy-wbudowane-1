@@ -1,3 +1,7 @@
+##FILES IN BRANCH: 
+ - main.cpp - app source code
+
+
 ## Instrukcja pracy z repozytorium
 
 ### 1. Sklonuj repozytorium z kluczem i skonfiguruj SSH
