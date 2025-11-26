@@ -4,7 +4,7 @@ int main() {
 char jakiejDanuty[] = "twojastara";
 std::cout << "Ej nie widziales moze Danuty" << std::endl;
 std::cin >> jakiejDanuty;
-if (jakiejDanuty == "jakiej Danuty?"){
+if (jakiejDanuty == "jakiej Danuty"){
 std::cout <<"Tej do kradnie blache z huty"<<std::endl;
 }
 else {
