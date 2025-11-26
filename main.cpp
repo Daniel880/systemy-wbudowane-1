@@ -1,7 +1,8 @@
 #include <iostream>
+#include <string>
 
 int main() {
-char jakiejDanuty[] = "twojastara";
+string jakiejDanuty[] = "twojamama";
 std::cout << "Ej nie widziales moze Danuty" << std::endl;
 std::cin >> jakiejDanuty;
 while (jakiejDanuty != "jakiejdanuty"){
