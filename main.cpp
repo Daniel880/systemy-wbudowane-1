@@ -2,7 +2,7 @@
 #include <string>
 
 int main() {
-string jakiejDanuty[] = "twojamama";
+string jakiejDanuty = "twojamama";
 std::cout << "Ej nie widziales moze Danuty" << std::endl;
 std::cin >> jakiejDanuty;
 while (jakiejDanuty != "jakiejdanuty"){
