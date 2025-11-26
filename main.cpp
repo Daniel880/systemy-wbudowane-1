@@ -4,7 +4,7 @@ int main() {
 char jakiejDanuty[] = "twojastara";
 std::cout << "Ej nie widziales moze Danuty" << std::endl;
 std::cin >> jakiejDanuty;
-while (jakiejDanuty =! "jakiej_Danuty"){
+while (jakiejDanuty != "jakiej_Danuty"){
 std::cout << "To nie jest pytanie na moja odpowiedz!"<<std::endl;
 std::cin >> jakiejDanuty;
 }
