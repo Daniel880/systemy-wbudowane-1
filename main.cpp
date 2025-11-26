@@ -11,5 +11,4 @@ std::cin >> jakiejDanuty;
 std<<cout << "Tej co kradnie blache z huty";
 
 return 0;
-std::cout<<"Witam ;)";
 }
