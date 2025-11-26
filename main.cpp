@@ -8,7 +8,7 @@ while (jakiejDanuty =! "jakiej_Danuty"){
 std::cout << "To nie jest pytanie na moja odpowiedz!"<<std::endl;
 std::cin >> jakiejDanuty;
 }
-std<<cout << "Tej co kradnie blache z huty";
+std::cout << "Tej co kradnie blache z huty";
 
 return 0;
 }
