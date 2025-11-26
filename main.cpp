@@ -1,8 +1,7 @@
 #include <iostream>
-#include <string>
 
 int main() {
-string jakiejDanuty = "twojastara";
+char* jakiejDanuty = "twojastara";
 std::cout << "Ej nie widziales moze Danuty" << std::endl;
 std::cin >> jakiejDanuty;
 if (jakiejDanuty == "jakiej Danuty?"){
