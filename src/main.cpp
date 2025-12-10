@@ -6,7 +6,9 @@
 extern Command janKowalskiCommand;
 extern Command annaNowakCommand;
 extern Command danielWyrwalCommand;
+extern Command jonaszKorylCommand;
 extern Command jerzyMankowskiCommand;
+
 // Add more extern declarations here for new students
 
 int main(int argc, char *argv[]) {
@@ -16,6 +18,7 @@ int main(int argc, char *argv[]) {
   registry.registerCommand("JanKowalski", &janKowalskiCommand);
   registry.registerCommand("AnnaNowak", &annaNowakCommand);
   registry.registerCommand("DanielWyrwal", &danielWyrwalCommand);
+  registry.registerCommand("JonaszKoryl", &jonaszKorylCommand);
   registry.registerCommand("JerzyMankowski", &jerzyMankowskiCommand);
 
   if (argc < 2) {
