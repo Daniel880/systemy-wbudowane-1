@@ -122,6 +122,14 @@ git commit -m "Dodano rysunek domu w komendzie JanKowalski"         # commit z o
 git push                                                            # wysłanie zmian do repozytorium
 ```
 
+### Przydatne komendy Git
+
+Wyświetl graficzną historię commitów:
+
+```bash
+git log --all --decorate --oneline --graph                          # wizualizacja historii wszystkich branchy
+```
+
 ## Kompilacja i Uruchomienie
 
 ### Wymagania
