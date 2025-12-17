@@ -10,7 +10,7 @@ int main() {
 std::cout<< " Zgadne twoja liczbe (wpisz ja na klawiaturze teraz) \n";
 std::cin>>x;
 std::cout<<" Czy twoja liczba to  "<<x;
-
+//modyfiacja 2 
 
 
 
