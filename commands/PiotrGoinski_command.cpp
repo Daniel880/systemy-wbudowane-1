@@ -6,7 +6,7 @@
 	public: 
 	  void execute() override { 
 	    std::cout << "=== Piotr Goinski Command ===" << std::endl; 
-	    std::cout << "Student ID: 42069 << std::endl; 
+	    std::cout << "Student ID: 42069" << std::endl; 
 	}	
 	
 	std::string getDescription() cons override { 
