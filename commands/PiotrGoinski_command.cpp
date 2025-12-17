@@ -9,9 +9,9 @@
 	    std::cout << "Student ID: 42069" << std::endl; 
 	}	
 	
-	std::string getDescription() cons override { 
+	std::string getDescription() const override { 
 	  return "Zwraca opis studenta Piotra Goinskiego";
 	}
 	};
-	
+	// Global instance - will be registered in main.cpp 
 	PiotrGoinskiCommand piotrGoinskiCommand;
