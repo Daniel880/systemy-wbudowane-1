@@ -1,0 +1,50 @@
+*   f5605cd (HEAD -> PiotrGG, origin/PiotrGG) Merge branch 'main' into PiotrGG
+|\  
+* | 1acfc36 nwm
+| | * d9c9ed9 (origin/Piotr-G, Piotr-G) Dodano bezsensowny komentarz
+| | * 738b183 Dodalem maina z x
+| |/  
+| | * 560f0d0 (origin/Bartosz-R) Dodano pustego maina
+| |/  
+| | * babed47 (origin/MISIANY-MISIANY-RULEZ) Dodano pusta funkcje main B)
+| | * 6928d73 (origin/konrad-kotkowski) Dodano kolejne wypisywanie zmodyfikowanego Hello World :)
+| | * a3a52f6 Dodano wypisanie Hello world
+| | * 9ddf01d Dodano pusta funkcje main
+| |/  
+| | * 551c2ee (origin/adam-g) Dodano wypisywanie Hello world
+| | * bbef889 Dodano pusta funkcje main
+| |/  
+| | * b49b542 (origin/Lukasz-Blajchert) Dodano wypisywanie Hello world
+| | * 1742c9b Dodano pusta funkcje main
+| |/  
+| | * 7e16361 (origin/Kamil-Wozniakowski) Dodano wypisywanie Hello world
+| | * 814db96 Dodano pusta funkcje main
+| |/  
+| | * aaf2220 (origin/maja-kurzawska) Dodano wpisywanie Hello world
+| | * ce5e379 Dodano pusta funkcje main
+| |/  
+| | * c216699 (origin/DanielWyrwal) Dodano funckje main w  main.cpp
+| | * 9c9a92b Dodano pusty plik main.cpp
+| |/  
+| | * 991970c (origin/bartosz-laganowski) Dodano wpisywanie Siema Ziomek
+| | * 3f68463 Dodano pusta funkcje main
+| |/  
+| | *   7a89939 (origin/cooperative-work) Merge pull request #7 from Daniel880/JerzyMankowski
+| | |\  
+| | | *   470f435 Merge branch 'main' into JerzyMankowski
+| | | |\  
+| | | |/  
+| | |/|   
+| | * |   0bcd306 Merge pull request #6 from Daniel880/JonaszKoryl
+| | |\ \  
+| | | * | 0ae13b8 Ponowny commit bo poprzedni chyba nie zadzialal, (dodano obsluge komendy JonaszKoryl
+| | |/ /  
+| | | * 2baf2fc Added Command for Jerzy Mankowski
+| | |/  
+| | *   060d4c6 Merge pull request #5 from Daniel880/DanielWyrwal
+| | |\  
+| | | * 46c7971 Added new command
+| | |/  
+| | *   e0dc78b Merge pull request #4 from Daniel880/readme-update
+| | |\  
+| | | * f572d0b Update readme with git log command
