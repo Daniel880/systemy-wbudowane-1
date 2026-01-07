@@ -29,5 +29,3 @@ add_executable(sw
     src/command.cpp
     ${COMMAND_SOURCES}
 )
-
-
