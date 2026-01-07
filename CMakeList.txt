@@ -1,0 +1,5 @@
+set(COMMAND_SOURCES
+commands/JanKowalski_command.cpp
+commands/AnnaNowak_command.cpp
+commands/NatanSzymanski_command.cpp
+)
