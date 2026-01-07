@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "command.h"
 #include <iostream>
 #include <string>
@@ -47,5 +48,5 @@ int main(int argc, char *argv[]) {
     }
 
     return 1;
-  }
+  
 }
