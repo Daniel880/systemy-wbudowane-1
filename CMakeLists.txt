@@ -15,6 +15,7 @@ set(COMMAND_SOURCES
     commands/JanKowalski_command.cpp
     commands/AnnaNowak_command.cpp
     commands/DanielWyrwal_command.cpp
+    commands/PiotrKrzyzaniak_command.cpp
     # Add more command files here for new students
 )
 
