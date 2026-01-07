@@ -17,6 +17,7 @@ set(COMMAND_SOURCES
     commands/DanielWyrwal_command.cpp
     commands/JonaszKoryl_command.cpp
     commands/JerzyMankowski_command.cpp
+    commands/DanielWyrwal2_command.cpp
     # Add more command files here for new students
 )
 
