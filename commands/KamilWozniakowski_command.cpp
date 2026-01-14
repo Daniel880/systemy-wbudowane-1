@@ -7,7 +7,7 @@ public:
     std::cout << "=== Kamil Wozniakowski Command ===" << std::endl;
     std::cout << "Executing function for Kamil Wozniakowski" << std::endl;
     std::cout << "bedzie," << std::endl;
-    std::cont << "bedzie zabawa," << std::endl;
+    std::cout << "bedzie zabawa," << std::endl;
     std::cout << "bedzie sie dzialo" << std::endl;
     std::cout << "i znowu nocy bedzie malo" << std::endl;
     std::cout << "============================" << std::endl;
