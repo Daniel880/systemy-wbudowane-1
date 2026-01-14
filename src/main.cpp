@@ -14,7 +14,7 @@ int main(int argc, char *argv[]) {
   // Register all commands here - add new students below
   registry.registerCommand("JanKowalski", &janKowalskiCommand);
   registry.registerCommand("AnnaNowak", &annaNowakCommand);
-
+  registry.registerCommand("MajaKurzawska", &majaKurzawskaCommand);
   if (argc < 2) {
     std::cout << "Usage: sw <StudentName>" << std::endl;
     std::cout << "\nAvailable commands:" << std::endl;
