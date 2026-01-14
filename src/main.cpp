@@ -5,6 +5,7 @@
 // Declare external command instances
 extern Command janKowalskiCommand;
 extern Command annaNowakCommand;
+extern Command majaKurzawskaCommand;
 // Add more extern declarations here for new students
 
 int main(int argc, char *argv[]) {
